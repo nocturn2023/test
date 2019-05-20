@@ -3,3 +3,7 @@ hello
 other add 1
 A change 1
 A分支增加的
+
+增加一样新文字。
+
+
